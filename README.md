@@ -15,5 +15,5 @@ After exectution, an output file `links.txt` will be created, which contains all
 
 ## 2 Citation
 
-To cite the source code here, please cite [DOI: 10.1016/j.jmgm.2019.107492](https://doi.org/10.1016/j.jmgm.2019.107492).
+When you use OTBL, please cite [DOI: 10.1016/j.jmgm.2019.107492](https://doi.org/10.1016/j.jmgm.2019.107492).
 
